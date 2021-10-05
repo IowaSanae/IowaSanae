@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning to be software engineer.
+- 🌱 Learning to be a software engineer.
 - 📫 Reach me at: 
 + Facebook: https://www.facebook.com/Byakuren.Fish/
 + Twitter: @TheButterFish
