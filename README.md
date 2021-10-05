@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome, random person on the internet to my profile!
 
-- 🌱 Learning to be a software engineer.
+Here are some information about me:
+- 20, Male, Vietnamese.
+- 🌱 Learning to be a game developer.
 - 📫 Reach me at: 
 + Facebook: https://www.facebook.com/Byakuren.Fish/
 + Twitter: @TheButterFish
