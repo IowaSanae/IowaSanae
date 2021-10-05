@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning to be software engineer.
+- 📫 Reach me at: 
++ Facebook: https://www.facebook.com/Byakuren.Fish/
++ Twitter: @TheButterFish
++ Discord: Anchorite#9710
+- 😄 Pronouns: You may call me by whatever pronoun/name as you please.
