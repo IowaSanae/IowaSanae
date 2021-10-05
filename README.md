@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 + Discord: Anchorite#9710
 - 😄 Pronouns: You may call me by whatever pronoun/name as you please.
 
-![89778583_p0](https://user-images.githubusercontent.com/62286955/135955163-34a0f230-efe8-44f6-8047-c0e21a0a6d08.png)
+- Currently having fun
+- ![38f](https://user-images.githubusercontent.com/62286955/135955359-cbf91ff6-2214-4aa5-a2fa-89a79a10bd9e.png)
