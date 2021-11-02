@@ -19,6 +19,7 @@ Welcome, random person on the internet to my profile!
 
 Here are some information about me:
 - 20, Male, Vietnamese.
+- ❤️ Hoshimachi Suisei.
 - 🌱 Learning to be a game developer.
 - 📫 Reach me at: 
 + Facebook: https://www.facebook.com/Byakuren.Fish/
