@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 Welcome, random person on the internet to my profile!
 
 Here are some information about me:
-- 20, Male, Vietnamese.
 - ❤️ Hoshimachi Suisei.
 - 🌱 Learning to be a game developer.
 - 📫 Reach me at: 
-+ Facebook: https://www.facebook.com/Byakuren.Fish/
 + Twitter: @TheButterFish
 + Discord: Anchorite#9710
 - 😄 Pronouns: You may call me by whatever pronoun/name as you please.
