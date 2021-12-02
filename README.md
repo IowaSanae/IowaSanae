@@ -25,5 +25,5 @@ Here are some information about me:
 + Discord: Anchorite#9710
 - 😄 Pronouns: You may call me by whatever pronoun/name as you please.
 
-- Break time's over, meaning that I will be actively working on my projects.
+- Break time is over, meaning that I will be actively working on my projects.
 ![38f](https://user-images.githubusercontent.com/62286955/135955359-cbf91ff6-2214-4aa5-a2fa-89a79a10bd9e.png)
