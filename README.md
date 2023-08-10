@@ -20,9 +20,6 @@ Welcome, random person on the internet to my profile!
 Here are some information about me:
 - ❤️ Hoshimachi Suisei.
 - 🌱 Learning to be a game developer.
-- 📫 Reach me at: 
-+ Twitter: @TheButterFish
-+ Discord: Anchorite#9710
 - 😄 Pronouns: You may call me by whatever pronoun/name as you please.
 
 - Break time is over, meaning that I will be actively working on my projects. Please stay tuned for updates.
