@@ -19,7 +19,6 @@ Welcome, random person on the internet to my profile!
 
 Here are some information about me:
 - ❤️ Kochiya Sanae.
-- 🌱 Learning to be a game developer.
 - 💬 A Python developer.
 - 😄 Pronouns: You may call me by whatever pronoun/name as you please.
 
