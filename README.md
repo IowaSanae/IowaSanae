@@ -19,7 +19,7 @@ Welcome, random person on the internet to my profile!
 
 Here are some information about me:
 - ❤️ Kochiya Sanae.
-- 💬 A Python developer.
+- 💬 Python/Rust/C/C++/Typescript.
 - 😄 Pronouns: You may call me by whatever pronoun/name as you please.
 
 ![38f](https://user-images.githubusercontent.com/62286955/135955359-cbf91ff6-2214-4aa5-a2fa-89a79a10bd9e.png)
