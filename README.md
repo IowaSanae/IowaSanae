@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6ae051d7-a063-4029-a4be-cb524280d80c)### Hi there 👋
+### Hi there 👋
 
 <!--
 **IowaSanae/IowaSanae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
