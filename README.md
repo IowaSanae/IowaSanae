@@ -28,4 +28,4 @@ Welcome, random person on the internet to my profile!
 
 ## Most of the repos I work on (or used to) are privated so the stats is NOT accurate.
 [![IowaSanae's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IowaSanae&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IowaSanae&size_weight=0.5&count_weight=0.5&layout=donut)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IowaSanae&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
