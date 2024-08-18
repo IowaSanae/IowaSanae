@@ -23,7 +23,9 @@ Welcome, random person on the internet to my profile!
 - Favorite code editor: Vim/Vscodium (with Vim extension).
 - 😄 Pronouns: You may call me by whatever pronoun/name as you please.
 
+
 ![38f](https://user-images.githubusercontent.com/62286955/135955359-cbf91ff6-2214-4aa5-a2fa-89a79a10bd9e.png)
 
+## (Most of the repos I work on (or used to) are privated so the stats isn't very accurate)
 [![IowaSanae's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IowaSanae&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IowaSanae&size_weight=0.5&count_weight=0.5&layout=donut)
