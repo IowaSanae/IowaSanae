@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome, random person on the internet to my profile!
 ### 🎉 I'm IowaSanae.
 
-- ❤️ Kochiya Sanae.
+- ❤️ Kochiya Sanae and Furina de Fontaine.
 - Python/Rust/C/C++/Typescript.
 - Favorite code editor: Vim/Vscodium (with Vim extension).
 - I believe in the Arch Linux supremacy (I use Arch btw).
